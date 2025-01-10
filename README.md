@@ -27,5 +27,3 @@ Um entusiasta da tecnologia.
 Cursando um ensino de nível superior na área de Análise e Desenvolvimento de Sistemas, Universidade Presbiteriana Mackenzie e, além da faculdade, faço cursos online para me aprofundar cada vez mais na minha área.
 
 Como desenvolvedor back-end, tenho experiência em programação e estou sempre me atualizando para expandir minhas habilidades. Com as habilidades a seguir, sinto-me preparado para enfrentar desafios no desenvolvimento de software.
-
-
