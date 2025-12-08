@@ -5,8 +5,6 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](Discordapp.com/users/613520987312619542)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_francesquini/)
 
-![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlao03&show_icons=true&theme=dark&include_all_commits-true&count_private-true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlao03&theme=dark&langs_count-16)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
